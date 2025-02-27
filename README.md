@@ -1,4 +1,4 @@
-![logo](Github Banner.png)
+![logo]([Github Banner.png](https://github.com/schourasia750/schourasia750/blob/main/Github%20Banner.png?raw=true))
 <h1 align="center">Hi 👋, I'm Shivansh Chourasia</h1>
 <h3 align="center">A passionate fullstack. developer from India</h3>
 <img align="right" width="400px" alt="coding" src="https://media4.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b952uxp1etnd61ga3ojpvk3qsnwd1h5aajn8nhrhd1k9&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
