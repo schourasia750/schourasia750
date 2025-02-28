@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular, REST APIs, and Fintech Development**
 
-- 👯 I’m looking to collaborate on [Open Source Fintech Projects](Mifos Initiative & GSoC 2025)
+
 
 - 💬 Ask me about **JavaScript, React, Open Source, and GSoC**
 
