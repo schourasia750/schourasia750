@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GenAI, REST APIs, and Fintech Development**
 
--➡️ I have great knowledge in NodeJS, React, Java, Python, databases
+- ➡️ I have great knowledge in NodeJS, React, Java, Python, databases
 
 - 💬 Ask me about **Web-Development, JavaScript, Open Source, and GSoC**
 
