@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **Angular, REST APIs, and Fintech Development**
+- 🌱 I’m currently learning **GenAI, REST APIs, and Fintech Development**
 
+-➡️ I have great knowledge in NodeJS, React, Java, Python, databases
 
-
-- 💬 Ask me about **JavaScript, React, Open Source, and GSoC**
+- 💬 Ask me about **Web-Development, JavaScript, Open Source, and GSoC**
 
 - 📫 How to reach me **schourasia750@gmail.com**
 
